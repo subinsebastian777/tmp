@@ -6,7 +6,7 @@
       <router-link to="/dogs">Dogs</router-link>
     </div>
     <b-container><router-view/></b-container>
-<!-- hai change been made -->
+<!-- hai change deleted -->
   </div>
 </template>
 
